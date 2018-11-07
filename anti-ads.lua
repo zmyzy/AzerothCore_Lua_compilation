@@ -27,8 +27,8 @@ local function OnEvents(event, player, msg, Type, lang)
     for k, v in pairs(mensagens) do
         if string.find(string.lower(msg), v) then
         local plr = player:GetName();
-        SendWorldMessage("|cffffffff[" .. plr .. "] says : I love playing wow Dark Legion !!")
-        player:SendBroadcastMessage("|cffff0000The Advertisements of another server or website is strictly forbidden here. If you continue to do same, you will get Ban. Have a good day, Dark Legion Staff Team")
+        SendWorldMessage("|cffffffff[" .. plr .. "] says : TYPE HERE MSG WHO WILL REWRITE SPAM MSG !!")        --- Poszer says: www.example.com it will rewrite it to looks like Poszer says: TYPE HERE MSG WHO WILL REWRITE SPAM MSG !! 
+        player:SendBroadcastMessage("|cffff0000The Advertisements of another server or website is strictly forbidden here. If you continue to do same, you will get Ban. Have a good day.")
         player:SendBroadcastMessage("If you continue, server will automatically send reports, and kick you from game.")
         cont=cont+1;
         if (cont==5) then
