@@ -1,3 +1,6 @@
+-- Anti ADS System for Azeroth Core
+-- Create by Poszer
+
 local mensagens = {
 
     [1] = "www.", 
