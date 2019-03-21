@@ -1,9 +1,6 @@
 # Projects Lua scripts, and some .sql Files
 Free Projects maked to use for everyone. SQL Files, Lua scripts too 
 
-More LUA scripts supported by AC below:
-https://github.com/DevRainDash/ElunaScripts 
-
 # ![logo](https://raw.githubusercontent.com/azerothcore/azerothcore.github.io/master/images/logo-github.png) AzerothCore
 
 <a href="https://scan.coverity.com/projects/azerothcore-azerothcore-wotlk">
